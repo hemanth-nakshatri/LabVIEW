@@ -1,5 +1,8 @@
 # LabVIEW
 A few LabVIEW programs
+## Requirements:
+1. LabVIEW 2019 or above
+2. MathScript toolkit add-on
 
 ## Transfer Function
 A graphical program to generate transfer function of a mechanical system when its physical constants are given.
